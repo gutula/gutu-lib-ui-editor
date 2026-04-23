@@ -35,6 +35,7 @@ Provides editor-facing UI helpers and components that sit between low-level edit
 | Package ID | `ui-editor` |
 | Display Name | UI Editor |
 | Import Name | `@platform/ui-editor` |
+| Canonical Namespace Target | `@gutu/ui-editor` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides editor-facing UI helpers and components that sit between low-level edit
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | No |
+| Legacy Compatibility IDs | `@platform/ui-editor` |
 
 ### Dependency interpretation
 

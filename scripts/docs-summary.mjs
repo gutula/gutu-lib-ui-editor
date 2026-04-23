@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-ui-editor",
   "packageId": "ui-editor",
   "displayName": "UI Editor",
+  "packageCount": 1,
   "group": "UI Foundation",
   "maturity": "Baseline",
   "description": "Tiptap wrapper APIs.",
